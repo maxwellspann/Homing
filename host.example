@@ -1,0 +1,4 @@
+host sh-172-23-1-10 {
+    hardware ethernet e0:d5:5e:17:2c:6d;
+    fixed-address 172.23.1.10;
+}
